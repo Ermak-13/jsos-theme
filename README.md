@@ -6,21 +6,21 @@ Default theme demo - <https://ermak-13.github.io/jsos-theme>.
 
 ## Getting Started
 * Fork repository
-* Rename project, like as "jsos-theme-dark"
-* ```npm install```
-* ```gulp server``` & open <http://localhost:8009>
-* ```gulp dev```
+* Rename repository, like as "jsos-theme-dark"
+* `npm install`
+* `gulp server` & open <http://localhost:9992>
+* `gulp dev`
 * edit ./stylesheets/globals.scss && README.md
-* ```git commit -m 'your message'``` ```git push origin master```
-* ```git checkout --orphan gh-pages``` ```git add . && git commit -m 'init github pages'```
-* open http://\<yourname\>.github.io/\<your-theme-dark\>
+* `git commit -m 'your message'` `git push origin master`
+* `git checkout --orphan gh-pages` `git add . && git commit -m 'init github pages'`
+* open http://\<yourname\>.github.io/\<your-repository-name\>
 
 Good Job! ;)
 
 ## Gulp Commands
-* ```gulp default``` - gulp dev
-* ```gulp dev``` - watch, sass files (stylesheets directory)
-* ```gulp server``` - run webserver on **localhost:8009**
+* `gulp default` - gulp dev
+* `gulp dev` - watch, sass files (stylesheets directory)
+* `gulp server` - run webserver on **localhost:9992**
 
 ## License
 This program is free software: you can redistribute it and/or modify
