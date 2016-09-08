@@ -14,6 +14,7 @@ Default theme demo - <https://ermak-13.github.io/jsos-theme>.
 * `git commit -m 'your message'` `git push origin master`
 * `git checkout --orphan gh-pages` `git add . && git commit -m 'init github pages'`
 * open http://\<yourname\>.github.io/\<your-repository-name\>
+* Please, add theme link to [JSOS Store](https://github.com/Ermak-13/jsos-store) themes.txt
 
 Good Job! ;)
 
